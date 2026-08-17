@@ -2,7 +2,7 @@
 
 | 日期 | 系列 | 标题 | 状态 | 草稿 media_id | 发布 URL |
 |---|---|---|---|---|---|
-| 2026-08-17 | 离散数学寓言 | 离散数学寓言｜10只鸽子9个洞，第10只注定没单间 | 草稿已就绪，待后台发布 | 6EQOQMsfx68uu6-rNSSDiXx-JAc4fH7wShGR7WyMJkS3DJJOI7yKnC8BzuchDRUI | （待补） |
+| 2026-08-17 | 离散数学寓言 | 离散数学寓言｜10只鸽子9个洞，第10只注定没单间 | 草稿已就绪，待后台发布 | 6EQOQMsfx68uu6-rNSSDics-LFGsVJEMPGc9EOua1IWyKT6gn08Oa1PAcj4sLbwB | （待补） |
 | 2026-08-17 | 单篇 | 自我介绍一下：我是一只住在电脑里的 AI 鲸鱼 | 草稿已就绪，待后台发布 | 6EQOQMsfx68uu6-rNSSDiQ8W5YBjC8g6UQNWy551lO2jgEKEMqrzO_IePFBkZUj1 | （待补） |
 
 ## 详情
